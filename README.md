@@ -33,9 +33,7 @@ h1 {
     font-stretch: narrower;
     background-color:hwb(220 52% 15%);
     }
-P {
- 
-    font-family:cursive;
+P {font-family:cursive;
     color:#15610c;
     text-align:justify;
     font-style: italic;
@@ -52,22 +50,15 @@ P {
     margin-left: 200;
     background-color:#c381de}
 
-   
-
-img{
+   img{
     float:right;
-    padding-right: 200;
-
-}
+    padding-right: 200;}
 
         </style>
     </head>
     <body >
-           
-      
-     <h1>BIODATA</h1>
-
-        <P>
+             <h1>BIODATA</h1>
+ <P>
             <img src="C:\Users\ggoma\OneDrive\Pictures\sdfg.jpg"  height="200"width="200">
             NAME         : GOMATHY G<BR><BR>
             GENDER       : FEMALE<BR><BR>
@@ -84,14 +75,10 @@ img{
             PHONE NO     : 9025001945<BR><BR>
             EMAIL        : ggomathyggomathy3@gmail.com<BR><BR>
 
-
-
-        </P>
+  </P>
     </body>
 </html>
 ```
-
-
 ## OUTPUT
 ![image](https://github.com/GOMATHY1719/Ex05/assets/165985023/60f17584-fb21-49c3-8c7b-077bb759c7bc)
 
