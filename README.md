@@ -1,4 +1,5 @@
-# Ex.05 Bio-Data using CSS
+![image](https://github.com/GOMATHY1719/Ex05/assets/165985023/45b07e55-52e8-4d65-833a-cb06f60c31e7)# Ex.05 Bio-Data using CSS
+## DATE: 19/04/2024
 ## AIM
   To create bio-data with appropriate CSS styles and properties.
 
@@ -16,80 +17,83 @@
   Open the file in a browser and verify the output.
   
 ## CODE
-<html> </style>
-
-<head>
-
-<style>
-
+```
+<html>
+    <head>
+        <style>
+            
+            body{background-color: hwb(323 42% 15%);}
+            
 h1 {
+    text-decoration: underline;
+    font-family:Arial, Helvetica, sans-serif;
+    color:hwb(337 2% 52% / 0.879);
+    text-align:center;
+    font-style: italic;
+    font-stretch: narrower;
+    background-color:hwb(220 52% 15%);
+    }
+P {
+ 
+    font-family:cursive;
+    color:#15610c;
+    text-align:justify;
+    font-style: italic;
+    font-stretch:semi-condensed;
+    border:5px double rgb(122, 27, 159);
+    border-right-width:10 ;
+    border-bottom-width: 10;
+    border-top-width:10;
+    border-left-width:10;
+    padding-left: 100;
+    padding-top:20;
+    padding-bottom:10;
+    margin-right: 200;
+    margin-left: 200;
+    background-color:#c381de}
 
-background-color: rgb(255, 0, 0);
+   
 
-color: rgb(255, 234, 0);
-
-}
-
-p.a {
-
-font-style: italic;
-
-}
-
-p.b {
-
-font-style: italic;
-
-}
-
-p.c {
-
-font-style: oblique;
-
-}
-
-p.d {
-
-font-style: oblique;
-
-}
-
-div{
-
-background-color: rgb(0, 100, 100);
-
-width: 300px;
-
-border: 5px solid rgb(128, 0, 128);
-
-padding: 50px;
-
-margin: 20px;
+img{
+    float:right;
+    padding-right: 200;
 
 }
 
-</style>
+        </style>
+    </head>
+    <body >
+           
+      
+     <h1>BIODATA</h1>
 
-<body style="background-color: pink;"></body> <h1 style="text-align:center;">BIO DATA</h1>
+        <P>
+            <img src="C:\Users\ggoma\OneDrive\Pictures\sdfg.jpg"  height="200"width="200">
+            NAME         : GOMATHY G<BR><BR>
+            GENDER       : FEMALE<BR><BR>
+            D.O.B        : 19/01/2006<BR><BR>
+            BLOOD GROUP  : O +ve<BR><BR>
+            FATHER'S NAME: GOVINDASAMY M<BR><BR> 
+            MOTHER'S NAME: SUMATHI G<BR><BR>
+            REGISTER NO  : 212223250002<BR><BR>
+            DEGREE       : B.TECH<BR><BR>
+            DEPARTMENT   : AGRICULTURAL ENGG<BR><BR>
+            YEAR         : 1st YEAR<BR><BR>
+            COLLEGE      : SAVEETHA ENGG COLLEGE<BR><BR>
+            ADDRESS      : 60/2 SOUTH STREET,O.KEERANUR,CUDDALORE(Dt), 606 105.<BR><BR>
+            PHONE NO     : 9025001945<BR><BR>
+            EMAIL        : ggomathyggomathy3@gmail.com<BR><BR>
 
-<div>
 
-<div class="center">
 
-<p><h2> <p class="a"><b>Name: - BRINDHA.Y<b></p></h2>
-
-<h2><p class="b">Ref No:-212222250004 </h2></p> <h2> <p class="c">Dept: - <b>AGRICULTURAL ENGINEERING</p></h2> <h2> Year: -1ST</h2>
-
-<h2> <p class="d"> Hobbies:- PAINTING, READING NOVELS </p>
-
-</div>
-
-</body>
-
+        </P>
+    </body>
 </html>
+```
+
 
 ## OUTPUT
-![Screenshot (26)](https://github.com/BrindhaY/Ex05_Web-Design/assets/127816765/5d362b35-e48a-4dee-872c-cdbfa4f60cd1)
+![image](https://github.com/GOMATHY1719/Ex05/assets/165985023/60f17584-fb21-49c3-8c7b-077bb759c7bc)
 
 ## RESULT
   Bio-data with appropriate CSS styles and properties is created successfully.
