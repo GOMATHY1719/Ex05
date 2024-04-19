@@ -1,4 +1,4 @@
-![image](https://github.com/GOMATHY1719/Ex05/assets/165985023/45b07e55-52e8-4d65-833a-cb06f60c31e7)# Ex.05 Bio-Data using CSS
+
 ## DATE: 19/04/2024
 ## AIM
   To create bio-data with appropriate CSS styles and properties.
